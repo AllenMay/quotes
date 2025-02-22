@@ -1,18 +1,18 @@
-#Curated Quote List
+# Curated Quote List
 
-##About
+## About
 
-This is a collection of favorite quotes from members of the infamous Coding Collective. This repository is built for anyone to practice collaborating using git.  Add as many quotes as you like!
+This is a collection of favorite quotes from members of the infamous Coding Collective. This repository is built for anyone to practice collaborating using git.  Add as many quotes as you l ike!
 
-##Add
+## Add
 
 To add to the list of quotes:
 
-1.  Fork repository to your personal Github repository.
-2.  Add your quote either directly on Github or clone to your computer and make changes
-3.  Create Pull Request.
+1. Fork repository to your personal Github repository.
+2. Add your quote either directly on Github or clone to your computer and make changes
+3. Create Pull Request.
 
-##The Quotes
+## The Quotes
 
 
 > No matter where you go - there you are.
