@@ -14,6 +14,9 @@ To add to the list of quotes:
 
 ## The Quotes
 
+> Sarcasm is an ointment for poison ivy of the soul
+
+Allen May 2025
 
 > No matter where you go - there you are.
 
